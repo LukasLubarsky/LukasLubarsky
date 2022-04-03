@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LukasLubarsky
+- 👋 Hi, I’m Lukáš Lubarský
 - 👀 I’m interested in data science, SQL, Python, PHP, HTML and CSS
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on FPS game
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me luklubar@gmail.com
 
 <!---
